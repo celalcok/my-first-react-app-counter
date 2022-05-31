@@ -1,3 +1,6 @@
+# Making Counter with React Framework
+![counter-with-react](counter.gif "In this project I have used react framework to make a counter")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
